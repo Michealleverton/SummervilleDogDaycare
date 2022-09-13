@@ -9,7 +9,7 @@ function Navigation() {
           <nav className="navbar navbar-expand-lg bg_white">
           <NavLink to="/"><img className="mylogo" alt="" src={daycarelogo2} /></NavLink>
             <div className="display-7 pt-3 text-black">
-              Summerville <span className="text-green">Doggy </span>Daycare<br />
+              Summersville <span className="text-green">Doggy </span>Daycare<br />
               <p className="slogan">Your Friends Won't Want To Leave</p>
             </div>
             <ul className="navbar-nav ml-auto">
