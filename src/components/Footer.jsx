@@ -24,7 +24,7 @@ const Footer = () => {
         </div>
 
         <p className="m-0 text-center text-white">
-          Copyright &copy; Summersville Dog Daycare 2022 - All Rights Reserved.
+          Copyright &copy; Summersville Doggy Daycare 2022 - All Rights Reserved.
         </p>
 
       </div>
